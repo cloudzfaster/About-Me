@@ -1,8 +1,8 @@
 # About-Me
-This is cloudzfaster about me you will learn everything about him on this page.
+This is vekalmao about me you will learn everything about him on this page.
 
 
-## Hello I am cloudzfaster i am a discord bot developer
+## Hello I am vekaomg i am a discord bot developer
 
 
 I Have a bot named Verlox & ExplitBot
